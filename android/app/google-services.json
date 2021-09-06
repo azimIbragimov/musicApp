@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "510039074793",
+    "project_id": "musicworld-cc344",
+    "storage_bucket": "musicworld-cc344.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510039074793:android:bb1a3c44fa4f14bc400d78",
+        "android_client_info": {
+          "package_name": "com.AzimIbragimov.musicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510039074793-3e8gbbbdjbpv4q4r4v2q58ur39sf47or.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.AzimIbragimov.musicapp",
+            "certificate_hash": "650971258e8a57ba7065609ccea19e64a9599f9d"
+          }
+        },
+        {
+          "client_id": "510039074793-9v0rcd2en6p2bhlm9e5l461p2tfj0995.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWyrObhBLJSs--gCLF9ufKzXFl2Hs90ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510039074793-9v0rcd2en6p2bhlm9e5l461p2tfj0995.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
